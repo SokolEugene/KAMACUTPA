@@ -1,0 +1,14 @@
+.nav {
+	flex: 1;
+	width: 150px;
+	background-color: yellowgreen;
+	margin: 10px 10px 10px 10px;
+	padding: 5px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-display: swap;
+	font-style: normal;
+	font-weight: 400;
+	color: black;
+	text-align: left;
+	font-size: 25px;
+}
